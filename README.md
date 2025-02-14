@@ -1,40 +1,35 @@
-<!-- 
-  1. Create a public repo named exactly your GitHub username (e.g., "Abdulrehmanrana").
-  2. Replace the contents of its README.md with the code below.
-  3. Commit. 
-  4. Visit github.com/<YourUsername> to see your new profile!
--->
-
 <h1 align="center">
-  Hello, I'm Abdul Rehman 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Abdul Rehman
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h1>
 
 <p align="center">
-  <em>
-    DevOps Engineer • AWS • Terraform • Kubernetes • CI/CD
-    <br>
-    <strong>Empowering businesses through scalable, automated infrastructure</strong>
-  </em>
+  <em>Senior DevOps Engineer • Cloud Architecture • Infrastructure Automation</em>
 </p>
 
 <div align="center">
-  <!-- Swap this GIF with any you prefer from GIPHY. Keep it tech/DevOps related for maximum impact. -->
-  <img src="https://media.giphy.com/media/B8RfbQwUqAGlq/giphy.gif" width="450" alt="DevOps GIF"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="380" alt="Infrastructure as Code Animation"/>
 </div>
 
----
+<div align="center">
+  <a href="mailto:arehmanrar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/abdulrehmanar1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-## :wave: About Me
+## 🎯 Professional Summary
+- **DevOps Engineer** with 2+ years of expertise in cloud infrastructure and automation
+- Specializing in **AWS cloud architecture**, **infrastructure as code**, and **containerization**
+- Currently pursuing an **MSc in Cyber Security Technology** at **Northumbria University**
+- Based in the **United Kingdom** 🇬🇧
 
-- DevOps Engineer with **2+ years** of hands-on experience in **AWS**, **Terraform**, **Kubernetes**, and **CI/CD**  
-- Skilled in **Dockerizing** applications and setting up **microservices** for rapid deployment  
-- Pursuing an **MSc in Cyber Security Technology** at **Northumbria University** (Merit)  
-- Advocate for **cloud security**, **infrastructure-as-code**, and **continuous improvement**
-
----
-
-## :hammer_and_wrench: Tech & Tools
+## 💻 Technical Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -43,41 +38,44 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
----
+### 🔧 Core Competencies
+- **Cloud Infrastructure**: AWS Services, Cloud Architecture, Cost Optimization
+- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
+- **Containerization**: Kubernetes, Docker, Container Orchestration
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Security**: Cloud Security, DevSecOps, Compliance
 
-## :bookmark_tabs: Certifications
+## 🏆 Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
+  <img src="https://img.shields.io/badge/AWS_SAA-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/>
+</div>
 
-- **Certified Kubernetes Administrator (CKA)**  
+- **Certified Kubernetes Administrator (CKA)**
 - **AWS Certified Solutions Architect – Associate**
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</div>
+
+## 🌱 Currently Learning
+- Advanced Kubernetes Patterns
+- Cloud Security & Compliance
+- Infrastructure Optimization
+- Service Mesh Architecture
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
 ---
-
-## :bulb: Recent Highlights
-
-1. **Infrastructure-as-Code Mastery**  
-   - Deployed multi-region AWS environments via **Terraform** modules (VPC, EC2, EKS, etc.)  
-   - Automated pipelines with **Jenkins** to facilitate one-click deployments
-
-2. **Container & Microservices**  
-   - Built Docker-based microservices to scale quickly and reduce deployment times by ~60%  
-   - Leveraged **Kubernetes** for orchestrating complex, highly available applications
-
-3. **Security Best Practices**  
-   - Implemented **IAM** and VPC security to minimize attack surface  
-   - Ensured compliance with industry standards and performed regular vulnerability scans
-
----
-
-## :mailbox: Let’s Connect
-
-- **Email**: [arehmanrar@gmail.com](mailto:arehmanrar@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/abdulrehmanar1](https://linkedin.com/in/abdulrehmanar1)  
-- **Location**: United Kingdom
-
 <p align="center">
-  <em>Thanks for visiting! <br>
-  Let's collaborate and build something extraordinary together.</em>
+  <em>💡 "Automating today for a more efficient tomorrow"</em>
 </p>
