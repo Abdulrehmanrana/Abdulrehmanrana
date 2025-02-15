@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 - 🌟 DevOps Engineer crafting scalable cloud solutions
-- 🎓 MSc in Cyber Security Technology graduate
+- 🎓 MSc in Cyber Security 
 - 🏢 2+ years of hands-on infrastructure automation
 - 📍 Based in United Kingdom 🇬🇧
 
