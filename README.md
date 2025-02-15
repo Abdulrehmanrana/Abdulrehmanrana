@@ -64,26 +64,7 @@ Security & Monitoring:
   <img src="https://img.shields.io/badge/AWS_SAA-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/>
 </div>
 
-## 🚀 Featured Projects
-```python
-{
-    "☁️ Cloud Infrastructure": "Automated AWS infrastructure deployment using Terraform",
-    "🔒 Security Framework": "Implemented DevSecOps practices in CI/CD pipeline",
-    "📊 Monitoring Solution": "Kubernetes monitoring stack with Prometheus & Grafana"
-}
-```
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
 <p align="center">
   <em>⚡ "Building resilient infrastructure, one deployment at a time" 🚀</em>
 </p>
